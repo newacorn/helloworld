@@ -1,4 +1,4 @@
-module github.com/newacorn/helloworld
+module github.com/newacorn/helloworld2
 
 go 1.20
 
